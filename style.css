@@ -179,7 +179,7 @@ body {
     
 }
 
-.header>* {
+.header > * {
     padding: 20px;
 }
 
@@ -222,7 +222,6 @@ body {
 .buttons>* {
     margin: 0 12px;
 }
-
 
 .signBtn {
     background-color: rgb(34, 34, 34);
@@ -288,11 +287,14 @@ hr{
     margin: 30px 25px;
 }
 
-
 .foot-head{
     margin-left: 25px;
     margin-bottom: 20px;
     color: #888;
     font-size: 15px;
     font-weight: 500;
+}
+
+@media screen {
+    
 }
